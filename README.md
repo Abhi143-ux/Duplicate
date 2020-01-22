@@ -1,0 +1,2 @@
+# Duplicate
+Simple CocoaPods
